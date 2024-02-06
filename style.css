@@ -1,0 +1,58 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#banner{
+    height: 310px;
+    width: 100%;
+}
+.relleno{
+    font-size: 12px;
+}
+#contenido{
+    padding-top: 4px;
+    margin: 20px;
+}
+.lista {
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 600px;
+    margin: 20px;
+    float: inherit;
+    margin-top: -80px;
+    margin-left: 110px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.logo{
+    margin: 20px;
+}
+
+#logo{
+    height: 70px;
+    width: 70px;
+}
+.dueño {
+    width: 150px;
+    height: 150px;
+}
+.doof{
+    width: 130px;
+    height: 130px;
+   margin: 3px;
+}
+.integrantes{
+    display: flex;
+}
+.phineas{
+    height:140px ;
+    width: 150px;
+    margin: 0px;
+}
+.nombres{
+    padding-left: 20px;
+}
